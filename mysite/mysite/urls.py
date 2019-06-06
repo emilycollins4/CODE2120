@@ -20,4 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path(r'example/', include('example.urls')),
     path(r'appy/', include('appymcapp.urls')),
+    #####henlo fren
 ]
